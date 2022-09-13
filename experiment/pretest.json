@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following positions is not possible for a plane?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Plane perpendicular to both HP and VP.",
+        "b": "Plane parallel to both HP and VP.",
+        "c": "Plane perpendicular to HP, parallel to VP.",
+        "d": "Plane perpendicular to VP, parallel to HP"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The true shape of oblique plane obtained in ____",
+      "answers": {
+        "a": "HP",
+        "b": "VP",
+        "c": "Profile Plane",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Top view of circular disk perpendicular to VP will be",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Line",
+        "b": "Circle",
+        "c": "Point",
+        "d": "an ellipse"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "If the laminar true shape obtained on HP then",
+      "answers": {
+       	"a": "It is Parallel to HP",
+        "b": "It is parallel to VP",
+        "c": " Perpendicular to VP",
+        "d": " Both A & C"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
+    },
+    {
+     "question": "Top view of circular disk inclined to VP will be",
+     "answers": {
+       "a": "Line",
+       "b": "Circle",
+       "c": "Point",
+       "d": "An ellipse"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "advanced"
     }
   ]
 }
