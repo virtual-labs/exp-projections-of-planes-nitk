@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "If the laminar true shape obtained on VP then",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "It is Parallel to HP",
+        "b": "It is parallel to VP",
+        "c": " Perpendicular to VP",
+        "d": " Both B & C"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "A circular lamina inclined to VP appears in the front view as an ellipse of the major axis 30mm and the minor axis is 15mm. The major axis is parallel to both HP and VP. One end of the minor axis is in both HP and VP. Determine the inclination of the lamina with the VP.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+       	"a": "45 degrees",
+        "b": "90 degrees",
+        "c": "60 degrees",
+        "d": "105 degrees"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "A plane surface may be positioned in a space concerning the three principal planes of projection in any of the following positions, which one of the following is false?",
+      "answers": {
+       	"a": "Parallel to one of the principal planes and perpendicular to the other two",
+        "b": "Perpendicular to one of the principal planes and inclined to the other two.",
+        "c": "Parallel to both the planes",
+        "d": "Inclined to all the three principal planes."
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "advanced"
+    },
+    {
+      "question": " A equilateral triangular lamina of 25mm sides lies with one of its edges on HP such that the surface of the lamina is inclined to HP 60 degrees. How many lines with 3 coordinates will appear during the projection?",
+      "answers": {
+       	"a": "5",
+        "b": "6",
+        "c": "3",
+        "d": "2"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+     "question": "A mirror of 30mm*40mm is inclined to the wall such that its frontview is a square of 30mm side. The longer side of the mirror appears perpendicular to both HP and VP. Find the inclination of the mirror with the wall.",
+     "answers": {
+       "a": "48.76 degrees",
+       "b": "36.78 degrees",
+       "c": "51.76 degrees",
+       "d": "41.41 degrees"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "advanced"
     }
   ]
 }
