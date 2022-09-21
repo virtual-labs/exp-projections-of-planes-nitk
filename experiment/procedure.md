@@ -1,41 +1,37 @@
 
-1. Click on **“Simulation”** the following window will open.
-    Click on the **NEXT** button to proceed.  
+1) Click on **“Simulation”** the following window will open.
+    Click on the **NEXT** button to proceed.
+<center>
 
+![](images/1.png)
 
-<!-- ![](images/1.png) -->
-<img src="images/image1.png" width="800" height="600">  
+</center>
 
+2) The question will appear in this slide.
+<center>
 
+![](images/image8.png)
+</center>
+3) Click on **a** for next step of construction. Follow the same  
+ (**a\<\<c'\<\<c’\<\<c\<\<side\<\<e\<\<e’**)
+<center>
 
-2. Click on **a** for next step of construction. Follow the same  
- (**a\<\<c'\<\<c’\<\<c\<\<side\<\<e\<\<e’**)  
+![](./images/image1.png)
+![](./images/image2.png)
+![](./images/image3.png)
+![](images/image4.png)
+![](./images/image5.png)
+![11](./images/image6.png)
 
+</center>
 
-<!-- ![](./images/image1.png) -->
-<img src="images/image1.png" width="800" height="600">  
+4) Finally, the whole drawing is complete. And to again start with the
+    initial step click on the **Reset** button.
 
-<!-- ![](./images/image2.png) -->
-<img src="images/image2.png" width="800" height="600">  
+![13](./images/image7.png)
 
-<!-- ![](./images/image3.png) -->
-<img src="images/image3.png" width="800" height="600">  
+While drawing on a grid sheet, begin with:
+1. Assuming suitable conditions & draw Front View & Top View of initial position. 
+2. Now consider surface inclination & draw second Front View & Top View.
+3. After this, consider side/edge inclination and draw third ( final) Front View & Top View.
 
-<!-- ![](./images/image4.png) -->
-<img src="images/image4.png" width="800" height="600">  
-
-<!-- ![](./images/image5.png) -->
-<img src="images/image5.png" width="800" height="600">  
-
-
-<img src="./images/image6.png" width="800" height="600">  
-
-<!-- ![11](./images/image6.png) -->
-
-
-3. Finally, the whole drawing is complete. And to again start with the initial step click on the **Reset** button.    
-
-<img src="./images/image7.png" width="800" height="600">  
-
-
-<!-- ![13](./images/image7.png) -->
