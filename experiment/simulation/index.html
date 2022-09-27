@@ -8,6 +8,8 @@
     <script>
         var simsubscreennum=0;
         var temp=0;
+        let clicks = [false,false,false,false,false,false,false]
+
     </script>
 </head>
 <body>
@@ -39,13 +41,13 @@
         <span class="circlebg" id="stepnumber">&nbsp;1&nbsp;</span> 
         <p id="text" class="steptext incanvas" style="position: relative; left: 94px; top: 55px; ">Draw the front view of Pentagon</p></p>
         <canvas id="can" class="canvases" width="700" height="500"></canvas>
-        <button type="button" onclick="a();"  class="label" id="a"><b>a</b></button>
-        <button type="button" onclick="c();"  class="label" id="b">c'</button>
-        <button type="button" onclick="b();"  class="label" id="c">c'</button>
-        <button type="button" onclick="d();"  class="label" id="d">c</button>
-        <button type="button" onclick="e();"  class="label" id="e">side</button>
-        <button type="button" onclick="g();"  class="label" id="g">e'</button>
-        <button type="button" onclick="f();"  class="label" id="f">e</button>
+        <button type="button" onclick="if(!clicks[0]){a()};"  class="label" id="a"><b>a</b></button>
+        <button type="button" onclick="if(!clicks[1]){c()};"  class="label" id="b">c'</button>
+        <button type="button" onclick="if(!clicks[2]){b()};"  class="label" id="c">c'</button>
+        <button type="button" onclick="if(!clicks[3]){d()};"  class="label" id="d">c</button>
+        <button type="button" onclick="if(!clicks[4]){e()};"  class="label" id="e">side</button>
+        <button type="button" onclick="if(!clicks[5]){g()};"  class="label" id="g">e'</button>
+        <button type="button" onclick="if(!clicks[6]){f()};"  class="label" id="f">e</button>
     </div>
     
     
