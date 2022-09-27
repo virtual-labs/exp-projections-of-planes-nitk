@@ -12,11 +12,11 @@ html
 
 .label{
     border: none;
-    position: relative;
-    top:250px;
+    position: absolute;
+    /* top:250px; */
     background-color: #fff;
     font-weight: bold;
-    font:   bold 16px serif;
+    font:   bold 28px serif;
     outline: none;
 }
 
@@ -42,7 +42,18 @@ left:50px;
 top: 577px;
 font-size:12px
 }
-#a{
+
+#a,#b,#c,#d,#e,#f,#g{
+    left: 635px;
+    top: 450px;
+    padding: 4px 5px;
+    font-size: 20px;
+    font-family: "Comic Sans MS";
+    border: 1px solid gray;
+    text-align: center;
+    visibility: hidden;
+}
+/* #a{
     left: 78px;
     top: 285px;
 }
@@ -71,7 +82,7 @@ font-size:12px
 #g{
     left: 335px;
    top: 200px;
-}
+} */
 
 #title{
 position:relative;
