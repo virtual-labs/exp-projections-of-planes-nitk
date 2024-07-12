@@ -1,37 +1,21 @@
+### Procedure
 
-1) Click on **“Simulation”** the following window will open.
-    Click on the **NEXT** button to proceed.
-<center>
+<div style="text-align:left">
+  Click on the Objective icon <img src="images/objecticon.png" alt="Alt text" style="height:80px; width:80px;">  to view the objective of the simulation. 
 
-![](images/1.png)
+   ![Alt text](images/objectscreen.png)
+   
+   Click on the Apparatus icon <img src="images/apparatus-icon.png" alt="Alt text" style="height:80px; width:80px;">  to check the tools required for this simulation.
 
-</center>
+   ![Alt text](images/appratus_screen.png)
 
-2) The question will appear in this slide.
-<center>
+  Click on the Solution icon <img src="images/solutions-icon.png" alt="Alt text" style="height:80px; width:80px;"> to proceed with further simulation steps.
 
-![](images/image8.png)
-</center>
-3) Click on **a** for next step of construction. Follow the same  
- (**a\<\<c'\<\<c’\<\<c\<\<side\<\<e\<\<e’**)
-<center>
+  ![Alt text](images/solution_screen.png)
 
-![](./images/image1.png)
-![](./images/image2.png)
-![](./images/image3.png)
-![](images/image4.png)
-![](./images/image5.png)
-![11](./images/image6.png)
+   Evaluate and choose the correct answer to proceed with further steps, click on the next button <img src="images/nextButton-icon.png" alt="Alt text" style="height:80px; width:80px;">
 
-</center>
 
-4) Finally, the whole drawing is complete. And to again start with the
-    initial step click on the **Reset** button.
+   After performing the experiment, click on the Reset button <img src="images/resetButton-icon.png" alt="Alt text" style="height:80px; width:80px;"> to restart the experiment.
 
-![13](./images/image7.png)
-
-While drawing on a grid sheet, begin with:
-1. Assuming suitable conditions & draw Front View & Top View of initial position. 
-2. Now consider surface inclination & draw second Front View & Top View.
-3. After this, consider side/edge inclination and draw third ( final) Front View & Top View.
-
+</div>

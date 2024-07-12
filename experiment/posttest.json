@@ -6,14 +6,14 @@
       "answers": {
         "a": "It is Parallel to HP",
         "b": "It is parallel to VP",
-        "c": " Perpendicular to VP",
+        "c": " Perpendicular to HP",
         "d": " Both B & C"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (d). When the true shape is obtained on HP, it means that we are projecting the features of the object onto a plane parallel to VP. Since VP is also perpendicular to HP, it won't be parallel to HP",
+        "b": "The right answer is (d). When the true shape is obtained on VP, it means that we are projecting the features of the object onto a plane parallel to VP. Since VP is Vertical, the true shape lies in a vertical plane. But it is also perpendicular to HP.",
+        "c": "The right answer is (d). When the true shape is obtained on VP, it means that we are projecting the features of the object onto a plane parallel to VP and perpendicular to HP.",
+        "d": "Correct, the right answer is (d). When the true shape is obtained on VP, it means that we are projecting the features of the object onto a plane parallel to VP. Since VP is vertical, the true shape lies in a vertical plane. Additionally, because the vertical plane is perpendicular to HP, it ensures accurate representation without any perspective distortion."
       },
       "correctAnswer": "d",
       "difficulty": "intermediate"
@@ -27,10 +27,10 @@
         "d": "105 degrees"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (c). On measuring the value of inclination angle (φ) by making the projection, its value is found.",
+        "b": "The right answer is (c). On measuring the value of inclination angle (φ) by making the projection, its value is found.",
+        "c": "Correct, the right answer is (c). On measuring the value of inclination angle (φ) by making the projection, its value is found.",
+        "d": "The right answer is (c). On measuring the value of inclination angle (φ) by making the projection, its value is found."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "Inclined to all the three principal planes."
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (c). Planes may be divided into two main types: Perpendicular planes and Oblique planes. And this perpendicular plane is further divided into three parts- a) Parallel to one of the principal planes and perpendicular to the other two. b) Perpendicular to one of the principal planes and inclined to the other two. c) Inclined to all the three principal planes.",
+        "b": "The right answer is (c). Planes may be divided into two main types: Perpendicular planes and Oblique planes. And this perpendicular plane is further divided into three parts- a) Parallel to one of the principal planes and perpendicular to the other two. b) Perpendicular to one of the principal planes and inclined to the other two. c) Inclined to all the three principal planes.",
+        "c": "Correct, The right answer is (c). Planes may be divided into two main types: Perpendicular planes and Oblique planes. And this perpendicular plane is further divided into three parts- a) Parallel to one of the principal planes and perpendicular to the other two. b) Perpendicular to one of the principal planes and inclined to the other two. c) Inclined to all the three principal planes. But it cannot be parallel to both the planes.",
+        "d": "The right answer is (c). Planes may be divided into two main types: Perpendicular planes and Oblique planes. And this perpendicular plane is further divided into three parts- a) Parallel to one of the principal planes and perpendicular to the other two. b) Perpendicular to one of the principal planes and inclined to the other two. c) Inclined to all the three principal planes."
       },
       "correctAnswer": "c",
       "difficulty": "advanced"
@@ -61,10 +61,10 @@
         "d": "2"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (d).Lines above xy line i.e. a'b'(c') representing lines are the required lines.",
+        "b": "The right answer is (d).Lines above xy line i.e. a'b'(c') representing lines are the required lines.",
+        "c": "The right answer is (d).Lines above xy line i.e. a'b'(c') representing lines are the required lines.",
+        "d": "Correct, the right answer is (d).Lines above xy line i.e. a'b'(c') representing lines are the required lines."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
        "d": "41.41 degrees"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (d).",
+        "b": "The right answer is (d).",
+        "c": "The right answer is (d).",
+        "d": "Correct, the right answer is (d)."
       },
       "correctAnswer": "d",
       "difficulty": "advanced"
