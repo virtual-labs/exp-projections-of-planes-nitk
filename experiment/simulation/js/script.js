@@ -736,7 +736,7 @@ function checkAnswer(ele, index, answer, buttonClass) {
     optionSelected.classList.add("wrong");
     buttonClass.classList.remove("anim");
     buttonClass.classList.add("hide");
-    validateAnswer.innerHTML = "Worng answer, please check the options again👎";
+    validateAnswer.innerHTML = "Wrong answer, please check the options again👎";
     answersDiv.appendChild(validateAnswer);
   }
 }
