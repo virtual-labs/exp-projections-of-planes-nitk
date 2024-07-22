@@ -116,7 +116,7 @@ let currentQuestionIndex = 0;
 // stepNo & Step TITLE
 const stepNumber = document.querySelector(".practice-step-no");
 const stepTitle = document.querySelector(".practice-step-info");
-
+const taskTitle = document.querySelector(".task-title");
 // buttons
 const btnAxis = document.querySelector(".btn-axis");
 btnAxis.addEventListener("click", drawAxis);
@@ -156,11 +156,14 @@ function displayDiv(ele) {
   });
   if (ele.classList.contains("tool-objective")) {
     document.querySelector(".objective").classList.remove("hide");
+    taskTitle.textContent = "Objective";
   }
   if (ele.classList.contains("tool-apparatus")) {
     document.querySelector(".apparatus").classList.remove("hide");
+    taskTitle.textContent = "Apparatus";
   }
   if (ele.classList.contains("tool-practice")) {
+    taskTitle.textContent = "Solution";
     document.querySelector(".practice").classList.remove("hide");
     if (currentStep === undefined) initialSetup();
   }
