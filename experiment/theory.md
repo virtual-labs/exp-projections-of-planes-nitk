@@ -10,8 +10,7 @@ of the sides are unequal.
 
 **The positioning of a Plane surface**
 
-A plane surface may be positioned in space concerning the three
-principal planes of projection in any of the following positions:
+The three principal planes are vertical, horizontal and profile planes. A plane surface can be oriented in space relative to these three planes in any of the following ways:
 
   - Parallel to one of the principal planes and perpendicular to the
     other two.

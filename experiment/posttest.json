@@ -19,20 +19,20 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "A circular lamina inclined to VP appears in the front view as an ellipse of the major axis 30mm and the minor axis is 15mm. The major axis is parallel to both HP and VP. One end of the minor axis is in both HP and VP. Determine the inclination of the lamina with the VP.",
+      "question": "A plane is perpendicular to the VP and parallel to HP, the front view is:",
       "answers": {
-       	"a": "45 degrees",
-        "b": "90 degrees",
-        "c": "60 degrees",
-        "d": "105 degrees"
+       	"a": "Point",
+        "b": "Line",
+        "c": "Plane",
+        "d": "Circle"
       },
       "explanations": {
-        "a": "The right answer is (c). On measuring the value of inclination angle (φ) by making the projection, its value is found.",
-        "b": "The right answer is (c). On measuring the value of inclination angle (φ) by making the projection, its value is found.",
-        "c": "Correct, the right answer is (c). On measuring the value of inclination angle (φ) by making the projection, its value is found.",
-        "d": "The right answer is (c). On measuring the value of inclination angle (φ) by making the projection, its value is found."
+        "a": "The right answer is (b). The vertical trace is an edge of the plane i.e., a line",
+        "b": "Correct, the right answer is (b). The vertical trace is an edge of the plane i.e., a line",
+        "c": "The right answer is (b). The vertical trace is an edge of the plane i.e., a line",
+        "d": "The right answer is (b). The vertical trace is an edge of the plane i.e., a line"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
@@ -50,41 +50,41 @@
         "d": "The right answer is (c). Planes may be divided into two main types: Perpendicular planes and Oblique planes. And this perpendicular plane is further divided into three parts- a) Parallel to one of the principal planes and perpendicular to the other two. b) Perpendicular to one of the principal planes and inclined to the other two. c) Inclined to all the three principal planes."
       },
       "correctAnswer": "c",
-      "difficulty": "advanced"
+      "difficulty": "intermediate"
     },
     {
-      "question": " A equilateral triangular lamina of 25mm sides lies with one of its edges on HP such that the surface of the lamina is inclined to HP 60 degrees. How many lines with 3 coordinates will appear during the projection?",
+      "question": "A plane is perpendicular to both VP and to HP, then ",
       "answers": {
-       	"a": "5",
-        "b": "6",
-        "c": "3",
-        "d": "2"
+       	"a": "It has top view",
+        "b": "It has front view",
+        "c": "I has no view",
+        "d": "Both a&b"
       },
       "explanations": {
-        "a": "The right answer is (d).Lines above xy line i.e. a'b'(c') representing lines are the required lines.",
-        "b": "The right answer is (d).Lines above xy line i.e. a'b'(c') representing lines are the required lines.",
-        "c": "The right answer is (d).Lines above xy line i.e. a'b'(c') representing lines are the required lines.",
-        "d": "Correct, the right answer is (d).Lines above xy line i.e. a'b'(c') representing lines are the required lines."
+        "a": "The right answer is (d).It has both vertical and horizontal traces i.e., the edge of the plane which is a straight line.",
+        "b": "The right answer is (d).It has both vertical and horizontal traces i.e., the edge of the plane which is a straight line.",
+        "c": "The right answer is (d).It has both vertical and horizontal traces i.e., the edge of the plane which is a straight line.",
+        "d": "Correct, the right answer is (d).It has both vertical and horizontal traces i.e., the edge of the plane which is a straight line."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-     "question": "A mirror of 30mm*40mm is inclined to the wall such that its frontview is a square of 30mm side. The longer side of the mirror appears perpendicular to both HP and VP. Find the inclination of the mirror with the wall.",
+     "question": "When a plane is perpendicular to the horizontal plane (HP) and inclined to the vertical plane (VP), what is the relationship between its vertical trace (VT)  and the reference line(XY)?",
      "answers": {
-       "a": "48.76 degrees",
-       "b": "36.78 degrees",
-       "c": "51.76 degrees",
-       "d": "41.41 degrees"
+       "a": "Parallel",
+       "b": "Perpendicular",
+       "c": "Inclined",
+       "d": "Not related"
       },
       "explanations": {
-        "a": "The right answer is (d).",
-        "b": "The right answer is (d).",
-        "c": "The right answer is (d).",
-        "d": "Correct, the right answer is (d)."
+        "a": "The right answer is (b). In this case the vertical trace lies in VP and the XY line lies in HP, and both the planes are perpendicular to each other",
+        "b": "Correct, The right answer is (b).In this case the vertical trace lies in VP and the XY line lies in HP, and both the planes are perpendicular to each other",
+        "c": "The right answer is (b).In this case the vertical trace lies in VP and the XY line lies in HP, and both the planes are perpendicular to each other",
+        "d": "The right answer is (b).In this case the vertical trace lies in VP and the XY line lies in HP, and both the planes are perpendicular to each other"
       },
-      "correctAnswer": "d",
-      "difficulty": "advanced"
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
     }
   ]
 }
