@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Top view of circular disk perpendicular to VP will be",
+      "question": "Top view of circular disk whose edge is perpendicular to VP will be",
       "answers": {
         "a": "Line",
         "b": "Circle",
@@ -70,12 +70,12 @@
       "difficulty": "beginner"
     },
     {
-     "question": "Top view of circular disk inclined to VP will be",
+     "question": "Top view of circular disk inclined to VP and HP will be",
      "answers": {
        "a": "Line",
        "b": "Circle",
        "c": "Point",
-       "d": "An ellipse"
+       "d": "Ellipse"
       },
       "explanations": {
         "a": "The right answer is (d). The top view of circular disk which is perpendicular to VP will be a Line.",
@@ -84,7 +84,7 @@
         "d": "Correct, the right answer is (d). Only if the circular disk is inclined with respect to either HP or VP or both, then the front view and top view will be an ellipse depending upon the angle."
       },
       "correctAnswer": "d",
-      "difficulty": "advanced"
+      "difficulty": "intermediate"
     }
   ]
 }
