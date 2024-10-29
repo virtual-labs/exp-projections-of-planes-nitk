@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Top view of circular disk whose edge is perpendicular to VP will be",
+      "question": "Top view of circular disk whose axis is perpendicular to VP will be",
       "answers": {
         "a": "Line",
         "b": "Circle",
@@ -55,7 +55,7 @@
     {
       "question": "If the laminar true shape obtained on HP then",
       "answers": {
-       	"a": "It is Parallel to HP",
+        "a": "It is Parallel to HP",
         "b": "It is parallel to VP",
         "c": " Perpendicular to VP",
         "d": " Both A & C"
@@ -70,12 +70,12 @@
       "difficulty": "beginner"
     },
     {
-     "question": "Top view of circular disk inclined to VP and HP will be",
-     "answers": {
-       "a": "Line",
-       "b": "Circle",
-       "c": "Point",
-       "d": "Ellipse"
+      "question": "Top view of circular disk inclined to VP and HP will be",
+      "answers": {
+        "a": "Line",
+        "b": "Circle",
+        "c": "Point",
+        "d": "Ellipse"
       },
       "explanations": {
         "a": "The right answer is (d). The top view of circular disk which is perpendicular to VP will be a Line.",

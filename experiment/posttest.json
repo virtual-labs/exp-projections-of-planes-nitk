@@ -21,7 +21,7 @@
     {
       "question": "A plane is perpendicular to the VP and parallel to HP, the front view is:",
       "answers": {
-       	"a": "Point",
+        "a": "Point",
         "b": "Line",
         "c": "Plane",
         "d": "Circle"
@@ -38,7 +38,7 @@
     {
       "question": "A plane surface may be positioned in a space concerning the three principal planes of projection in any of the following positions, which one of the following is false?",
       "answers": {
-       	"a": "Parallel to one of the principal planes and perpendicular to the other two",
+        "a": "Parallel to one of the principal planes and perpendicular to the other two",
         "b": "Perpendicular to one of the principal planes and inclined to the other two.",
         "c": "Parallel to both the planes",
         "d": "Inclined to all the three principal planes."
@@ -55,7 +55,7 @@
     {
       "question": "A plane is perpendicular to both VP and to HP, then ",
       "answers": {
-       	"a": "It has top view",
+        "a": "It has top view",
         "b": "It has front view",
         "c": "I has no view",
         "d": "Both a&b"
@@ -68,23 +68,6 @@
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
-    },
-    {
-     "question": "When a plane is perpendicular to the horizontal plane (HP) and inclined to the vertical plane (VP), what is the relationship between its vertical trace (VT)  and the reference line(XY)?",
-     "answers": {
-       "a": "Parallel",
-       "b": "Perpendicular",
-       "c": "Inclined",
-       "d": "Not related"
-      },
-      "explanations": {
-        "a": "The right answer is (b). In this case the vertical trace lies in VP and the XY line lies in HP, and both the planes are perpendicular to each other",
-        "b": "Correct, The right answer is (b).In this case the vertical trace lies in VP and the XY line lies in HP, and both the planes are perpendicular to each other",
-        "c": "The right answer is (b).In this case the vertical trace lies in VP and the XY line lies in HP, and both the planes are perpendicular to each other",
-        "d": "The right answer is (b).In this case the vertical trace lies in VP and the XY line lies in HP, and both the planes are perpendicular to each other"
-      },
-      "correctAnswer": "b",
-      "difficulty": "intermediate"
     }
   ]
 }
