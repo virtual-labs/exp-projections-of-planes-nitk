@@ -215,7 +215,16 @@ function nextQuestion() {
   }
 }
 
+function canvasScrollIntoView() {
+  // Scroll into view
+  canvas.scrollIntoView({
+    behavior: "smooth", // Smooth scrolling animation
+    block: "start", // Align the top of the element to the top of the viewport
+  });
+}
+
 function drawAxis() {
+  canvasScrollIntoView();
   canvas.classList.remove("hide");
   canvas.scrollIntoView();
   btnTop.classList.remove("hide");
@@ -240,6 +249,7 @@ function nameVPHP() {
 }
 
 function topView() {
+  canvasScrollIntoView();
   ctx.strokeStyle = "#000000";
   const animSet = animationsSets[0].animation;
   animSet.forEach((anim, index) => {
@@ -259,6 +269,7 @@ function topView() {
 }
 
 function nameVerices() {
+  canvasScrollIntoView();
   ctx.fillText("a", 90, 300);
   ctx.fillText(
     "d",
@@ -281,6 +292,7 @@ function nameVerices() {
 }
 
 function projectLines() {
+  canvasScrollIntoView();
   ctx.fillText("Solid lines", 570, 25);
   ctx.fillText("Projection lines", 570, 45);
   ctx.beginPath();
@@ -318,6 +330,7 @@ function projectLines() {
 }
 
 function drawTopview() {
+  canvasScrollIntoView();
   ctx.beginPath();
   ctx.strokeStyle = "#000000";
   ctx.fillStyle = "#000000";
@@ -353,6 +366,7 @@ function nameTopViewVertcies() {
 }
 
 function drawInclinedLine() {
+  canvasScrollIntoView();
   ctx.beginPath();
   ctx.strokeStyle = "#B9B6B1";
   ctx.arc(250, 200, 25, -Math.PI / 6, 0);
@@ -377,6 +391,7 @@ function drawInclinedLine() {
 }
 
 function drawBottomProjectionLines() {
+  canvasScrollIntoView();
   ctx.fillText("e'(a')", 230, 190);
   ctx.fillText("d'(b')", 225 + 50 * Math.cos(Math.PI / 10), 169);
   ctx.fillText(
@@ -451,6 +466,7 @@ function drawBottomProjectionLines() {
 }
 
 function inclinedProjection() {
+  canvasScrollIntoView();
   ctx.beginPath();
   // ctx.strokeStyle="#00688B";
   ctx.strokeStyle = "#000000";
@@ -477,6 +493,7 @@ function inclinedProjection() {
 }
 
 function plotSideProjection() {
+  canvasScrollIntoView();
   ctx.beginPath();
   ctx.arc(400, 200, 30, 0, Math.PI / 3);
   ctx.stroke();
@@ -636,6 +653,7 @@ function drawUpProjectionLines() {
 }
 
 function finalPlot() {
+  canvasScrollIntoView();
   ctx.beginPath();
   ctx.strokeStyle = "#000000";
   ctx.lineWidth = "2";
