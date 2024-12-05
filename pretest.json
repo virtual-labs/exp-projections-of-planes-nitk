@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which of the following positions is not possible for a plane?",
+      "answers": {
+        "a": "Plane perpendicular to both HP and VP.",
+        "b": "Plane parallel to both HP and VP.",
+        "c": "Plane perpendicular to HP, parallel to VP.",
+        "d": "Plane perpendicular to VP, parallel to HP"
+      },
+      "explanations": {
+        "a": "The rigth answer is (b). A plane can be perpendicular to both HP and VP. Example consider PP, it is perpendicular to both HP and VP.",
+        "b": "Correct, the rigth answer is (b). A plane cannot be parallel to both HP and VP as both the planes are perpendicular to each other. Either it can parallel to HP or VP but not both.",
+        "c": "The rigth answer is (b). Yes, a plane can be perpendicular to HP and parallel to VP.",
+        "d": "The rigth answer is (b). Yes, a plane can be perpendicular to VP and parallel to HP."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The true shape of oblique plane obtained in ____",
+      "answers": {
+        "a": "HP",
+        "b": "VP",
+        "c": "Profile Plane",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "The right answer is (d). HP is used to show the front view or top view of the plane, not the true shape. The true shape of oblique plane will be obtained in Secondary auxillary view.",
+        "b": "The right answer is (d). VP is used to show the front view or top view of the plane, not the true shape. The true shape of oblique plane will be obtained in Secondary auxillary view.",
+        "c": "The right answer is (d). PP is used to show the front view or top view of the plane, not the true shape. The true shape of oblique plane will be obtained in Secondary auxillary view.",
+        "d": "Correct, the right answer is (d). The true shape of oblique plane will be obtained in Secondary auxillary view."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Top view of circular disk whose axis is perpendicular to VP will be",
+      "answers": {
+        "a": "Line",
+        "b": "Circle",
+        "c": "Point",
+        "d": "an ellipse"
+      },
+      "explanations": {
+        "a": "Correct, the right answer is (a). The top view of circular disk perpendicular to VP will be a Line.",
+        "b": "The right answer is (a). The front view of circular disk perpendicular to VP will be a circle.",
+        "c": "The right answer is (a). None of the view of a circular disk will show you a point.",
+        "d": "The right answer is (a). Only if the circular disk is inclined with respect to either HP or VP or both, then the front view and top view will be an ellipse depending upon the angle."
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "If the laminar true shape obtained on HP then",
+      "answers": {
+        "a": "It is Parallel to HP",
+        "b": "It is parallel to VP",
+        "c": " Perpendicular to VP",
+        "d": " Both A & C"
+      },
+      "explanations": {
+        "a": "The right answer is (d). When the true shape is obtained on HP, it means that we are projecting the features of the object onto a plane parallel to HP. Since HP is horizontal, the true shape lies in a horizontal plane. But it is also perpendicular to VP.",
+        "b": "The right answer is (d). When the true shape is obtained on HP, it means that we are projecting the features of the object onto a plane parallel to HP. Since it is also perpendicular to VP, it won't be parallel to VP",
+        "c": "The right answer is (d). When the true shape is obtained on HP, it means that we are projecting the features of the object onto a plane parallel to HP and perpendicular to VP.",
+        "d": "Correct, the right answer is (d). When the true shape is obtained on HP, it means that we are projecting the features of the object onto a plane parallel to HP. Since HP is horizontal, the true shape lies in a horizontal plane. Additionally, because the horizontal plane is perpendicular to VP, it ensures accurate representation without any perspective distortion."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Top view of circular disk inclined to VP and HP will be",
+      "answers": {
+        "a": "Line",
+        "b": "Circle",
+        "c": "Point",
+        "d": "Ellipse"
+      },
+      "explanations": {
+        "a": "The right answer is (d). The top view of circular disk which is perpendicular to VP will be a Line.",
+        "b": "The right answer is (d). The front view of circular disk perpendicular to VP will be a circle.",
+        "c": "The right answer is (d). None of the view of a circular disk will show you a point.",
+        "d": "Correct, the right answer is (d). Only if the circular disk is inclined with respect to either HP or VP or both, then the front view and top view will be an ellipse depending upon the angle."
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    }
+  ]
+}
