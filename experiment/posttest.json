@@ -2,37 +2,71 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "If the laminar true shape obtained on VP then",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "It is Parallel to HP",
+        "b": "It is parallel to VP",
+        "c": " Perpendicular to HP",
+        "d": " Both B & C"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The right answer is (d). When the true shape is obtained on HP, it means that we are projecting the features of the object onto a plane parallel to VP. Since VP is also perpendicular to HP, it won't be parallel to HP",
+        "b": "The right answer is (d). When the true shape is obtained on VP, it means that we are projecting the features of the object onto a plane parallel to VP. Since VP is Vertical, the true shape lies in a vertical plane. But it is also perpendicular to HP.",
+        "c": "The right answer is (d). When the true shape is obtained on VP, it means that we are projecting the features of the object onto a plane parallel to VP and perpendicular to HP.",
+        "d": "Correct, the right answer is (d). When the true shape is obtained on VP, it means that we are projecting the features of the object onto a plane parallel to VP. Since VP is vertical, the true shape lies in a vertical plane. Additionally, because the vertical plane is perpendicular to HP, it ensures accurate representation without any perspective distortion."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "A plane is perpendicular to the VP and parallel to HP, the front view is:",
+      "answers": {
+        "a": "Point",
+        "b": "Line",
+        "c": "Plane",
+        "d": "Circle"
+      },
+      "explanations": {
+        "a": "The right answer is (b). The vertical trace is an edge of the plane i.e., a line",
+        "b": "Correct, the right answer is (b). The vertical trace is an edge of the plane i.e., a line",
+        "c": "The right answer is (b). The vertical trace is an edge of the plane i.e., a line",
+        "d": "The right answer is (b). The vertical trace is an edge of the plane i.e., a line"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "A plane surface may be positioned in a space concerning the three principal planes of projection in any of the following positions, which one of the following is false?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Parallel to one of the principal planes and perpendicular to the other two",
+        "b": "Perpendicular to one of the principal planes and inclined to the other two.",
+        "c": "Parallel to both the planes",
+        "d": "Inclined to all the three principal planes."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The right answer is (c). Planes may be divided into two main types: Perpendicular planes and Oblique planes. And this perpendicular plane is further divided into three parts- a) Parallel to one of the principal planes and perpendicular to the other two. b) Perpendicular to one of the principal planes and inclined to the other two. c) Inclined to all the three principal planes.",
+        "b": "The right answer is (c). Planes may be divided into two main types: Perpendicular planes and Oblique planes. And this perpendicular plane is further divided into three parts- a) Parallel to one of the principal planes and perpendicular to the other two. b) Perpendicular to one of the principal planes and inclined to the other two. c) Inclined to all the three principal planes.",
+        "c": "Correct, The right answer is (c). Planes may be divided into two main types: Perpendicular planes and Oblique planes. And this perpendicular plane is further divided into three parts- a) Parallel to one of the principal planes and perpendicular to the other two. b) Perpendicular to one of the principal planes and inclined to the other two. c) Inclined to all the three principal planes. But it cannot be parallel to both the planes.",
+        "d": "The right answer is (c). Planes may be divided into two main types: Perpendicular planes and Oblique planes. And this perpendicular plane is further divided into three parts- a) Parallel to one of the principal planes and perpendicular to the other two. b) Perpendicular to one of the principal planes and inclined to the other two. c) Inclined to all the three principal planes."
       },
       "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "A plane is perpendicular to both VP and to HP, then ",
+      "answers": {
+        "a": "It has top view",
+        "b": "It has front view",
+        "c": "I has no view",
+        "d": "Both a&b"
+      },
+      "explanations": {
+        "a": "The right answer is (d).It has both vertical and horizontal traces i.e., the edge of the plane which is a straight line.",
+        "b": "The right answer is (d).It has both vertical and horizontal traces i.e., the edge of the plane which is a straight line.",
+        "c": "The right answer is (d).It has both vertical and horizontal traces i.e., the edge of the plane which is a straight line.",
+        "d": "Correct, the right answer is (d).It has both vertical and horizontal traces i.e., the edge of the plane which is a straight line."
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
